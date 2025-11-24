@@ -27,7 +27,7 @@ const greeting = {
   //resumeLink:
    // "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/hari0888/Hari-Yennam.git",
-  githubProfile: "https://github.com/hari0888/Hari-Yennam.git",
+  githubProfile: "https://github.com/hari0888/hari_portfolio-myproject.git",
 };
 
 const socialMediaLinks = [
