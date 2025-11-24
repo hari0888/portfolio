@@ -70,7 +70,7 @@ ________________________________________________________________________________
 <h3>⭐ System Architecture & Scalability</h3>
 _________________________________________________________________________________________________
 <h2>📬Connect with Me</h2>
-🔗 Portfolio: https://hariyennam-portfolio.netlify.app/ </br>
+🔗 Portfolio: https://hari-yennam-portfolio.netlify.app/ </br>
 🔗 LinkedIn: www.linkedin.com/in/hari-kumar-reddy-yennam-457a9620a </br>
 🔗 Email: harireddy9408@gmail.com </br>
 
