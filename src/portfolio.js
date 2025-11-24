@@ -25,9 +25,9 @@ const greeting = {
   subTitle:
     "A passionate Full Stack Developer who thrives on building end-to-end products and delivering scalable, user-focused solutions that create meaningful impact.",
   //resumeLink:
-   // "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
-  portfolio_repository: "https://github.com/hari0888/Hari-Yennam.git",
-  githubProfile: "https://github.com/hari0888/hari_portfolio-myproject.git",
+  // "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
+  portfolio_repository: "https://github.com/hari0888/portfolio.git",
+  githubProfile: "https://github.com/hari0888/portfolio.git",
 };
 
 const socialMediaLinks = [
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/hari0888/Hari-Yennam.git",
+    link: "https://github.com/hari0888/portfolio.git",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -52,7 +52,7 @@ const socialMediaLinks = [
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  
+
   {
     name: "Gmail",
     link: "mailto:harireddy9408@gmail.com",
@@ -364,34 +364,34 @@ const experience = {
         {
           title: "Full Stack Developer",
           company: "Qualcomm",
-          company_url: "https://www.tiktok.com/en/",
-         logo_path: "Qualcomm.png",
+          company_url: "https://www.qualcomm.com/",
+          logo_path: "Qualcomm.png",
           duration: "Sept 2023 - Present",
           location: ", TX,USA",
           description:
-            "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
+            "As a Full Stack Developer at Qualcomm, I design, develop, and maintain scalable web applications using React, Node.js, and Express, delivering responsive and high-performing user interfaces. I integrate RESTful APIs with MySQL and MongoDB databases to ensure efficient data management and system performance. I deploy and manage applications on AWS and Azure, leveraging CI/CD pipelines and automated scaling to maximize reliability. Working in Agile teams, I collaborate on requirement definition, code reviews, and timely release delivery. I also implement best practices in security, performance optimization, and testing to enhance application stability and user experience, utilizing tools and technologies such as React, Node.js, Express, JavaScript, MySQL, MongoDB, AWS, Azure, and GitHub.",
           color: "#000000",
         },
         {
           title: "Associate",
           company: "Cognizant Technology Solutions PVT LTD",
-          company_url: "https://legatohealthtech.com/",
+          company_url: "https://www.cognizant.com/us/en",
           logo_path: "Cognizant.png",
           duration: "August 2022 - August 2023",
           location: "Hyderabad, Telangana",
           description:
-            "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+            "As an Associate, I assisted in developing full stack web applications to enhance business functionality and improve UX. I built front-end interfaces with HTML, CSS, and JavaScript, while supporting back-end logic using Python and SQL. I focused on optimizing code performance, maintainability, and security, collaborating with senior developers to deliver high-performing and scalable solutions. This role strengthened my expertise in full stack development, problem-solving, and Agile team collaboration.",
           color: "#0879bf",
         },
         {
           title: "Programmer Analyst",
           company: "Cognizant Technology Solutions PVT LTD",
-          company_url: "https://www.linkedin.com/company/muffito-inc/about/",
+          company_url: "https://www.cognizant.com/us/en",
           logo_path: "Cognizant.png",
           duration: "July 2021 - August 2022",
           location: "Hyderabad, Telangana",
           description:
-            "I have created complete Android Application for locating Pub, Bar and beverage shops around you. I have also worked on implementation of algorithms for Face Detection, Text extraction from Image. I was involved in a team for creating complete software architecure of mobile and web application as well as admin panel for company.",
+            "As a Programmer Analyst at Cognizant, I developed and maintained dynamic web applications using HTML, CSS, JavaScript, and Python, ensuring responsive and user-friendly interfaces. I implemented RESTful APIs and integrated MySQL and MongoDB databases to support data-driven functionality. Collaborating with cross-functional teams, I helped design and deploy scalable, cross-platform web solutions while improving development workflows through Git version control, automation, and code optimization. This role enhanced my skills in full stack development, problem-solving, and Agile methodologies.",
           color: "#9b1578",
         },
         /*{

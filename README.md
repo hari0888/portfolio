@@ -1,4 +1,3 @@
-
 <h3>👋 Hey there! I'm Hari Kumar Reddy Yennam</h3>
 __________________________________________________________________________________________________
 <h2>🚀 About Me</h2><br/>
@@ -8,7 +7,8 @@ I enjoy building end-to-end solutions that improve user experience, optimize wor
 
 🔹 Currently: Working at Resurge-technologies as a contract Full Stack developer at Qualcomm .<br/>
 🔹 Previously: Worked at cognizant as a Full Stack Developer, client: Thomson Reuters.
-_________________________________________________________________________________________________________
+
+---
 
 <h2>🛠️ Technologies & Tools</h2>
 
@@ -74,32 +74,4 @@ ________________________________________________________________________________
 🔗 LinkedIn: www.linkedin.com/in/hari-kumar-reddy-yennam-457a9620a </br>
 🔗 Email: harireddy9408@gmail.com </br>
 
-
-[![⭐ GitHub Stars](https://img.shields.io/badge/⭐_GitHub_Stars-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hari0888/hari_portfolio-myproject.git)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![⭐ GitHub Stars](https://img.shields.io/badge/⭐_GitHub_Stars-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hari0888/portfolio.git)
