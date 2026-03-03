@@ -1,7 +1,7 @@
 <h3>👋 Hey there! I'm Hari Kumar Reddy Yennam</h3>
 __________________________________________________________________________________________________
 <h2>🚀 About Me</h2><br/>
-<p>I am a Full stack Developer 4+ years of experience in designing, developing sclable web applications.</br>
+<p>I am a Full Stack Developer with expertise in building scalable, high-performance web applications using modern technologies and best practices.</br>
 I specialize in React, Node.js, Angular, SpringBoot, Java and Python.</br>
 I enjoy building end-to-end solutions that improve user experience, optimize workflows, and drive digital transformation.</p>
 
@@ -71,7 +71,7 @@ ________________________________________________________________________________
 _________________________________________________________________________________________________
 <h2>📬Connect with Me</h2>
 🔗 Portfolio: https://hari-yennam-portfolio.netlify.app/ </br>
-🔗 LinkedIn: www.linkedin.com/in/hari-kumar-reddy-yennam-457a9620a </br>
+🔗 LinkedIn: www.linkedin.com/in/hari-full-stack-developer</br>
 🔗 Email: harireddy9408@gmail.com </br>
 
 [![⭐ GitHub Stars](https://img.shields.io/badge/⭐_GitHub_Stars-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hari0888/portfolio.git)
