@@ -222,12 +222,12 @@ const degrees = {
     },*/
     {
       title: "Indiana Wesleyan University",
-      subtitle: "M.S. in Information Technology & Management",
+      subtitle: "M.S. in Computer Science",
       logo_path: "uni_logo.png",
       alt_name: "Indiana Wesleyan University",
       duration: "2023 - 2025",
       descriptions: [
-        "⚡ Completed a Master’s in IT Management and Data Analytics, specializing in full stack development, data engineering, and analytics, with hands-on experience in Python, SQL, JavaScript, cloud technologies, and modern development tools.",
+        "⚡Master’s in Computer Science with hands-on experience in full stack development, building scalable web applications using Java, JavaScript, Python, SQL, cloud platforms, and modern development tools.",
         //"⚡ Apart from this, I have also done research assistantship. As part of it, I have worked on creating new algorithms in Graph ML and Network Science.",
         //"⚡ During my time at university, I was also associated with multimedia department. As part of it, I have worked on some documentry films and interviews.",
       ],
