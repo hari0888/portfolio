@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Hari Yennam",
   nickname: "Hari",
   subTitle:
-    "A passionate Full Stack Developer who thrives on building end-to-end products and delivering scalable, user-focused solutions that create meaningful impact.",
+     "I’m a Full Stack Developer who enjoys building end-to-end applications from designing scalable backend architectures to crafting intuitive front-end experiences focused on delivering reliable, high impact solutions.",
   //resumeLink:
   // "https://drive.google.com/file/d/1bXRknv_h-XI_3CQ3SGPteGODtvEb7YvI/view?usp=sharing",
   portfolio_repository: "https://github.com/hari0888/portfolio.git",
@@ -67,12 +67,12 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive, user-friendly front-end interfaces using React.",
-        "⚡ Developing cross-platform mobile applications with React Native and Flutter.",
-        "⚡ Designing and implementing scalable backend services using Node.js, Express, and Flask.",
-        "⚡ Creating and managing databases using MongoDB, MySQL, and PostgreSQL.",
-        "⚡ Integrating third-party APIs and services to enhance application functionality.",
-        "⚡ Deploying applications on cloud platforms like AWS etc.",
+        "⚡ Build responsive, accessible, and user-friendly front-end applications using React, ensuring performance optimization and seamless user experience across devices.",
+        "⚡ Develop cross-platform mobile applications using React Native and Flutter, delivering consistent functionality on both iOS and Android platforms.",
+        "⚡ Design and implement scalable backend services and RESTful APIs using Node.js, Express, and Flask, following modular and microservices-based architecture principles.",
+        "⚡ Architect and manage relational and NoSQL databases including MongoDB, MySQL, and PostgreSQL, focusing on performance tuning, indexing strategies, and data integrity.",
+        "⚡ Integrate third-party APIs, payment gateways, authentication providers, and external services to extend application capabilities.",
+        "⚡ Deploy, configure, and maintain applications on cloud platforms such as AWS, implementing CI/CD pipelines, containerization, and monitoring for high availability and scalability.",
       ],
       softwareSkills: [
         {
