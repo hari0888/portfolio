@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Hari's Portfolio",
   description:
-    "A passionate Full Stack Developer who thrives on building end-to-end products and delivering scalable, user-focused solutions that create meaningful impact.",
+    "I’m a Full Stack Developer who enjoys building end-to-end applications from designing scalable backend architectures to crafting intuitive front-end experiences focused on delivering reliable, high impact solutions.",
   og: {
     title: "Hari Kumar Reddy Yennam Portfolio",
     type: "website",
