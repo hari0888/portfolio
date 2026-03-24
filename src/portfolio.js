@@ -362,11 +362,22 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Software Engineer",
+          company: "Western Alliance Bank",
+          company_url: "https://www.WesternAllianceBank.com/",
+          logo_path: "wabank.png",
+          duration: "Nov 2025 - Present",
+          location: ",USA",
+          description:
+            "At Western Alliance Bank, I work as a Full Stack Developer building and maintaining secure, scalable, and high-performance web applications that support digital banking operations, internal financial workflows, and customer-facing platforms. My work focuses on designing reliable systems that handle sensitive financial data, support transaction-heavy workloads, and meet strict compliance and security standards required in the banking domain.",
+          color: "#000000",
+        },
+        {
           title: "Full Stack Developer",
           company: "Qualcomm",
           company_url: "https://www.qualcomm.com/",
           logo_path: "Qualcomm.png",
-          duration: "Sept 2023 - Present",
+          duration: "Sept 2023 - Nov 2025",
           location: ", TX,USA",
           description:
             "As a Full Stack Developer at Qualcomm, I design, develop, and maintain scalable web applications using React, Node.js, and Express, delivering responsive and high-performing user interfaces. I integrate RESTful APIs with MySQL and MongoDB databases to ensure efficient data management and system performance. I deploy and manage applications on AWS and Azure, leveraging CI/CD pipelines and automated scaling to maximize reliability. Working in Agile teams, I collaborate on requirement definition, code reviews, and timely release delivery. I also implement best practices in security, performance optimization, and testing to enhance application stability and user experience, utilizing tools and technologies such as React, Node.js, Express, JavaScript, MySQL, MongoDB, AWS, Azure, and GitHub.",
