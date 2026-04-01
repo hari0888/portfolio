@@ -19,8 +19,8 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Hari Yennam",
-  logo_name: "Hari Yennam",
+  title: "Hari Reddy",
+  logo_name: "Hari Reddy",
   nickname: "Hari",
   subTitle:
      "I’m a Full Stack Developer who enjoys building end-to-end applications from designing scalable backend architectures to crafting intuitive front-end experiences focused on delivering reliable, high impact solutions.",
