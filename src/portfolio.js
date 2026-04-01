@@ -11,7 +11,7 @@ const seo = {
   description:
     "I’m a Full Stack Developer who enjoys building end-to-end applications from designing scalable backend architectures to crafting intuitive front-end experiences focused on delivering reliable, high impact solutions.",
   og: {
-    title: "Hari Kumar Reddy Yennam Portfolio",
+    title: "Hari Portfolio",
     type: "website",
     //url: "http://harikumarreddyyennam.com/",
   },
@@ -19,7 +19,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Hari Kumar Reddy Yennam",
+  title: "Hari Yennam",
   logo_name: "Hari Yennam",
   nickname: "Hari",
   subTitle:
