@@ -1,4 +1,4 @@
-<h3>👋 Hey there! I'm Hari Kumar Reddy Yennam</h3>
+<h3>👋 Hey there! I'm Hari Reddy</h3>
 __________________________________________________________________________________________________
 <h2>🚀 About Me</h2><br/>
 <p>I am a Full Stack Developer with expertise in building scalable, high-performance web applications using modern technologies and best practices.</br>
