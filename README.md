@@ -5,8 +5,9 @@ ________________________________________________________________________________
 I specialize in React, Node.js, Angular, SpringBoot, Java and Python.</br>
 I enjoy building end-to-end solutions that improve user experience, optimize workflows, and drive digital transformation.</p>
 
-🔹 Currently: Working at Resurge-technologies as a contract Full Stack developer at Qualcomm .<br/>
-🔹 Previously: Worked at cognizant as a Full Stack Developer, client: Thomson Reuters.
+🔹 Currently: Working at Resurge-technologies as a contract Full Stack developer at Western alliance bank .<br/>
+🔹 Previously: Working at Resurge-technologies as a contract Full Stack developer at Qualcomm.<br/>
+🔹 Previously: Working at Cognizant as a Programmer analyst.
 
 ---
 
